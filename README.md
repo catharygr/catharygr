@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Caty 
-![Waving Hand](ezgif-3-0088d1ad93.gif)
+![Waving Hand](popo-video-ezgif.com-gif-maker.gif)
 
 ✨ Welcome to my GitHub profile! ✨  
 
