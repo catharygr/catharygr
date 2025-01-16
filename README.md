@@ -30,7 +30,7 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 
 - **[Portafolio](https://github.com/catharygr/portafolio-bubulazi-next-2024):** (React, Next.js, JavaSipt, CSS Grid, Flexbox,Vercel).
 - **[Formulario Multipáginas](https://github.com/catharygr/formulario-mutlpagina-react):**(React, React Router, JavaSipt, CSS Grid, Flexbox,Netlify).
-- **[Formulario Multipáginas]((https://github.com/catharygr/e-commerce-open-cells):**(Open Cells, LitElement,TipeScript, CSS Grid, Flexbox,Netlify).
+- **[E-Commerce](https://github.com/catharygr/e-commerce-open-cells):**(Open Cells, LitElement,TipeScript, CSS Grid, Flexbox,Netlify).
 
 ---
 
