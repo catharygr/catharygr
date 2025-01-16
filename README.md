@@ -24,6 +24,7 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![LitElement](https://img.shields.io/badge/LitElement-324FFF?style=for-the-badge&logo=lit&logoColor=white)
 ![Web Components](https://img.shields.io/badge/Web%20Components-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
+![Open Cells](https://img.shields.io/badge/Open%20Cells-008000?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -31,7 +32,7 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Open Cells](https://img.shields.io/badge/Open%20Cells-008000?style=for-the-badge&logoColor=white)
+
 
 ---
 
