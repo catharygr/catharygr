@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Caty 🤩
+# Hi there! 👋 I'm Caty 
+![Waving Hand](https://github.com/popo-video-ezgif.com-gif-maker.gif)
 
 ✨ Welcome to my GitHub profile! ✨  
 
