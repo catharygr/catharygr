@@ -28,7 +28,7 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 ## 🌟 Projects
 ✨ Here are some projects I’m proud of:
 
-- **[Portafolio]([#](https://github.com/catharygr/portafolio-bubulazi-next-2024)):** (React, Next.js).
+- **[Portafolio](https://github.com/catharygr/portafolio-bubulazi-next-2024)):** (React, Next.js).
 - **[Another Project](#):** Short description (CSS Grid, Flexbox).
 
 ---
