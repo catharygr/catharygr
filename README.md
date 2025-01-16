@@ -28,8 +28,9 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 ## 🌟 Projects
 ✨ Here are some projects I’m proud of:
 
-- **[Portafolio](https://github.com/catharygr/portafolio-bubulazi-next-2024)):** (React, Next.js).
-- **[Another Project](#):** Short description (CSS Grid, Flexbox).
+- **[Portafolio](https://github.com/catharygr/portafolio-bubulazi-next-2024):** (React, Next.js, JavaSipt, CSS Grid, Flexbox,Vercel).
+- **[Formulario Multipáginas](https://github.com/catharygr/formulario-mutlpagina-react):**(React, React Router, JavaSipt, CSS Grid, Flexbox,Netlify).
+- **[Formulario Multipáginas](https://github.com/catharygr/formulario-mutlpagina-react):**(React, React Router, JavaSipt, CSS Grid, Flexbox,Netlify).
 
 ---
 
