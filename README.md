@@ -28,6 +28,7 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 ## 🌟 Projects
 ✨ Here are some projects I’m proud of:
 
+- **[Blancodent-2025](https://github.com/catharygr/blancodent-2025)** (React 19, Nextjs 15, TypeScript, Jest, CSS Grid, Flexbox, Vercel)
 - **[Portafolio](https://github.com/catharygr/portafolio-bubulazi-next-2024):** (React, Next.js, JavaSipt, CSS Grid, Flexbox,Vercel).
 - **[Formulario Multipáginas](https://github.com/catharygr/formulario-mutlpagina-react):** (React, React Router, JavaScript, CSS Grid, Flexbox,Netlify).
 - **[E-Commerce](https://github.com/catharygr/e-commerce-open-cells):** (Open Cells, LitElement,TipeScript, CSS Grid, Flexbox,Netlify).
