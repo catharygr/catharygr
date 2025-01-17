@@ -1,13 +1,15 @@
-# Hi there! 👋 I'm Caty 
-![Waving Hand](https://github.com/catharygr/assets/popo-video-ezgif.com-gif-maker.gif)
+# Hi there! 👋 I'm Caty
 
-✨ Welcome to my GitHub profile! ✨  
+![Waving Hand](/assets/popo-video-ezgif.com-gif-maker.gif)
+
+✨ Welcome to my GitHub profile! ✨
 
 I’m a **Web Developer** passionate about creating dynamic and responsive web applications with **React** and **Next.js**. Here’s a little about me:
 
 ---
 
 ## 🚀 About Me
+
 - 🔭 Currently working on: **Interactive and scalable web projects.**
 - 🌱 Learning more about: **Advanced CSS (Flexbox & Grid), animations with Framer Motion.**
 - 👯 Open to collaborating on: **Frontend and Fullstack projects.**
@@ -17,6 +19,7 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 ---
 
 ## 🛠️ Technologies
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,14 +33,15 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 ---
 
 ## 🌐 Tools and Services
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
 ---
 
 ## 🌟 Projects
+
 ✨ Here are some projects I’m proud of:
 
 - **[Blancodent-2025](https://github.com/catharygr/blancodent-2025)** (React 19, Nextjs 15, TypeScript, Jest, CSS Grid, Flexbox, Vercel)
@@ -50,6 +54,7 @@ I’m a **Web Developer** passionate about creating dynamic and responsive web a
 ---
 
 ## 📫 Let's Connect
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://github.com/catharygr/portafolio-bubulazi-next-2024)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cathy@bubulazi.com)
 
