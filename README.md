@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Caty
+#Hi there! 👋 I'm Caty
 
 ![Waving Hand](/assets/popo-video-ezgif.com-gif-maker.gif)
 
